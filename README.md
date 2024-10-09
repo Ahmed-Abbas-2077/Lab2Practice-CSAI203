@@ -5,13 +5,17 @@ This is a basic web application that takes a user's name and email through an HT
 ## How to Run
 
 1. Clone the repository:
-      git clone https://github.com/Ahmed-Abbas-2077/Lab2Practice-CSAI203.git
+
+   git clone https://github.com/Ahmed-Abbas-2077/Lab2Practice-CSAI203.git
 
 2. Navigate to the project directory:
-      cd Lab2Practice-CSAI203
+
+   cd Lab2Practice-CSAI203
 
 3. Install Flask:
-      pip install Flask
+
+   pip install Flask
 
 4. Run the application:
-      python app.py
+
+   python app.py
