@@ -9,6 +9,8 @@
       href="{{ url_for('static', filename='css/styles.css') }}"
     />
   </head>
+
+  {% comment %} display name and email {% endcomment %}
   <body>
     <h1>Thank you, {{ name }}!</h1>
     <p>Your email, {{ email }}, has been submitted successfully.</p>

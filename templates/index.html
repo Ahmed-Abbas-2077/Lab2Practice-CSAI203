@@ -9,6 +9,8 @@
       href="{{ url_for('static', filename='css/styles.css') }}"
     />
   </head>
+
+  {% comment %} Read info from user {% endcomment %}
   <body>
     <h1>Enter Your Information</h1>
     <form action="/submit" method="POST">
